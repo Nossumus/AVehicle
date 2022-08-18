@@ -6,6 +6,7 @@ Autonomus vehicle project - engineering thesis.
   - [Capabilities](#capabilities) 
   - [MCU used](#mcu-used) 
   - [IDE and other software used](#ide-and-other-software-used)
+  - [Programing language](#programing-language)
 - [Gallery](#gallery)
 
 
@@ -47,6 +48,9 @@ The vehicle capabilities are listed below:
 - STM Studio
 - Visual Studio Code
 
+## Programing language
+
+C/C++, mostly C
 
 ## Gallery
 

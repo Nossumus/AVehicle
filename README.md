@@ -58,18 +58,12 @@ C/C++, mostly C
 
 ### Photos 
 
-Photo 1
-<p align = "center">
-  <img src = "" width="576"
-       </p>
+ <p align = "center"> <img src = "Photos/Pojazd + kontroler.jpg" width="576"</p>
+ <p align = "center"> Vehicle + controller
    
-Photo 2
-<p align = "center">
-  <img src = "" width="576"
-       </p>
-  
-Photo 3
-<p align = "center">
-  <img src = "" width="576"
-       </p>
+
+ <p align = "center"> <img src = "Próby na płytce stykowej.jpg" width="576"</p>
+ <p align = "center"> Prototyping 
+ 
+
   

@@ -1,5 +1,5 @@
 # AVehicle
-Autonomus vehicle project - engineering thesis. 
+### Autonomus vehicle project - engineering thesis. 
 
 ## Table of contents
 - [Description](#description) 
@@ -54,16 +54,17 @@ C/C++, mostly C
 
 ## Gallery
 
-### Video: [https://www.youtube.com/watch?v=PXvDGG3j_pY&list=PLEnQao540nqGiPTDcLybcyLzKcGvvVYyQ](https://www.youtube.com/watch?v=PXvDGG3j_pY&list=PLEnQao540nqGiPTDcLybcyLzKcGvvVYyQ)
+### Demonstration video: 
+[https://www.youtube.com/watch?v=PXvDGG3j_pY&list=PLEnQao540nqGiPTDcLybcyLzKcGvvVYyQ](https://www.youtube.com/watch?v=PXvDGG3j_pY&list=PLEnQao540nqGiPTDcLybcyLzKcGvvVYyQ)
 
 ### Photos 
 
  <p align = "center"> <img src = "Photos/Pojazd + kontroler.jpg" width="576"</p>
- <p align = "center"> Vehicle + controller
+ <p align = "center"> Vehicle + controller </p>
    
 
- <p align = "center"> <img src = "Próby na płytce stykowej.jpg" width="576"</p>
- <p align = "center"> Prototyping 
+ <p align = "center"> <img src = "Photos/Próby na płytce stykowej.jpg" width="576"</p>
+ <p align = "center"> Prototyping </p>
  
 
   

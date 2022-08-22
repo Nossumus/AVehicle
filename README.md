@@ -61,23 +61,20 @@ C/C++, mostly C
 
 ### Photos 
 
- <p align = "center"> <img src = "Photos/Pojazd + kontroler.jpg" width="576"</p>
- <p align = "center"> Vehicle + controller </p>
-   
  <p align = "center"> <img src = "Photos/Próby na płytce stykowej.jpg" width="576"</p>
  <p align = "center"> Prototyping </p>
- 
+
  <p align = "center"> <img src = "Photos/Podwozie.jpg" width="576"</p>
  <p align = "center"> Chassis </p>
- 
+
  <p align = "center"> <img src = "Photos/Warsztatowe.jpg" width="576"</p>
  <p align = "center"> Workshop photo </p>
  
- <p align = "center"> <img src = "Photos/IMG_20220125_133647.jpg" width="576"</p>
- <p align = "center"> Mainboard </p>
- 
  <p align = "center"> <img src = "Photos/IMG_20220125_180801.jpg" width="576"</p>
  <p align = "center"> Soldering ESP32 socket </p>
+ 
+ <p align = "center"> <img src = "Photos/Pojazd + kontroler.jpg" width="576"</p>
+ <p align = "center"> Vehicle + controller </p>
  
  
  
